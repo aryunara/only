@@ -8,7 +8,7 @@ use Models\User;
 use Models\UserIdentity;
 use Requests\LoginRequest;
 use Requests\RegistrationRequest;
-use Service\SessionAuthenticationService;
+use Services\SessionAuthenticationService;
 
 class UserController
 {

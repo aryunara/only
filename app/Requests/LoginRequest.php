@@ -2,7 +2,7 @@
 
 namespace Requests;
 
-use Service\YandexCaptchaService;
+use Services\YandexCaptchaService;
 
 class LoginRequest
 {

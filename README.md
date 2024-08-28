@@ -29,7 +29,7 @@ identity_field varchar(255) not null UNIQUE,
 password varchar(255) not null
 );
 
-5) Откройте файл app/Service/YandexCaptchaService.php и на 7 строке вставьте серверный ключ, высланный мной в личном сообщении.
+5) Откройте файл app/Services/YandexCaptchaService.php и на 7 строке вставьте серверный ключ, высланный мной в личном сообщении.
 
 ### II. Теперь в браузере доступны следующие страницы:
 

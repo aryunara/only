@@ -7,7 +7,7 @@ use Models\Model;
 use Models\User;
 use Models\UserIdentity;
 use Requests\ProfileRequest;
-use Service\SessionAuthenticationService;
+use Services\SessionAuthenticationService;
 
 class ProfileController
 {
